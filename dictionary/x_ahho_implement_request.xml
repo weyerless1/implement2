@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Implementation Request" max_length="40" name="x_ahho_implement_request" type="collection"/>
+    <element extends="task" label="Implementation Request" max_length="40" name="x_ahho_implement_request" type="collection">
+        <element label="Customer" mandatory="true" max_length="32" name="customer" reference="u_prod_gp_customer" type="reference"/>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element choice="3" label="Request type" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element label="Reverse" sequence="10" value="1"/>
+            </choice>
+        </element>
+    </element>
 </database>
