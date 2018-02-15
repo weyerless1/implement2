@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Implementation Request" max_length="40" name="x_ahho_implement_request" type="collection">
+    <element audit="true" extends="task" label="Implementation Request" max_length="40" name="x_ahho_implement_request" sizeclass="1" type="collection">
+        <element default="0" label="Number of affected devices" max_length="16" name="affected_devices" type="integer"/>
+        <element label="Ascension affiliate" max_length="40" name="ascension_affiliate" type="boolean"/>
+        <element label="Contract termination" max_length="40" name="contract_termination" type="glide_date"/>
+        <element label="Cost center" max_length="32" name="cost_center" reference="cmn_department" type="reference"/>
+        <element label="Coverage hours" max_length="100" name="coverage_hours" type="string"/>
         <element label="Customer" mandatory="true" max_length="32" name="customer" reference="u_prod_gp_customer" type="reference"/>
-        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Default Technician" max_length="32" name="default_technician" reference="sys_user" type="reference"/>
+        <element label="Off-site locations?" max_length="40" name="off_site_locations" type="boolean"/>
+        <element label="Parent facility" max_length="32" name="parent_facility" reference="u_prod_gp_customer" type="reference"/>
+        <element choice="1" label="Region" max_length="100" name="region" type="choice">
+            <choice>
+                <element label="Northeast" sequence="100" value="1"/>
+                <element label="Central / Midwest" sequence="200" value="2"/>
+                <element label="South" sequence="300" value="3"/>
+                <element label="West" sequence="400" value="4"/>
+            </choice>
+        </element>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element choice="3" label="Request type" max_length="40" name="request_type" type="choice">
             <choice>
                 <element label="Reverse" sequence="10" value="1"/>
             </choice>
         </element>
+        <element choice="1" label="Resolution code" max_length="40" name="resolution_code" type="choice">
+            <choice>
+                <element label="Completed" sequence="10" value="1"/>
+                <element label="Rejected" sequence="20" value="2"/>
+            </choice>
+        </element>
+        <element label="Site manager" max_length="32" name="site_manager" reference="sys_user" type="reference"/>
+        <element label="Time zone" max_length="100" name="time_zone" type="string"/>
+        <element label="T&amp;M customer" max_length="40" name="tm_customer" type="boolean"/>
     </element>
 </database>

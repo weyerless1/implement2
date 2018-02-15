@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Implementation Task" max_length="40" name="x_ahho_implement_task" sizeclass="1" type="collection"/>
+</database>
