@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="implementation_requests">567d000813a89300cb92b7a66144b0ad</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2018-02-22 19:52:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1cac480413a89300cb92b7a66144b09d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Implementation Requests</sys_name>
+        <sys_package display_value="Implementation" source="x_ahho_implement">fc115867134c1f00cb92b7a66144b0b5</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
+        <sys_update_name>sp_portal_1cac480413a89300cb92b7a66144b09d</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2018-02-23 18:44:51</sys_updated_on>
+        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <title>Implementation Requests</title>
+        <url_suffix>implementation</url_suffix>
+    </sp_portal>
+</record_update>
