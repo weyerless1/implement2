@@ -5,7 +5,7 @@
         <availability>on_both</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Variance Implementation Requests">9907f49d136c1b00cb92b7a66144b021</category>
+        <category display_value="Variation Implementation">9907f49d136c1b00cb92b7a66144b021</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -46,7 +46,7 @@
         <script><![CDATA[current.assignment_group.setDisplayValue('Implementation Requests');
 
 producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
-        <short_description>Variance Implementation</short_description>
+        <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
@@ -54,7 +54,7 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <sys_created_on>2018-02-26 17:00:15</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>31cbc85513e81b00cb92b7a66144b0dc</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Reverse Implementation</sys_name>
         <sys_package display_value="Implementation" source="x_ahho_implement">fc115867134c1f00cb92b7a66144b0b5</sys_package>
         <sys_policy/>
@@ -62,7 +62,7 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
         <sys_update_name>sc_cat_item_producer_31cbc85513e81b00cb92b7a66144b0dc</sys_update_name>
         <sys_updated_by>tlweyer</sys_updated_by>
-        <sys_updated_on>2018-02-27 16:17:20</sys_updated_on>
+        <sys_updated_on>2018-02-27 19:16:05</sys_updated_on>
         <table_name>x_ahho_implement_request</table_name>
         <template/>
         <type>item</type>

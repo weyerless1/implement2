@@ -2,7 +2,7 @@
 <record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Reverse Implementation">31cbc85513e81b00cb92b7a66144b0dc</sc_cat_item>
-        <sc_catalog display_value="Variance Implementation">1447b89d136c1b00cb92b7a66144b071</sc_catalog>
+        <sc_catalog display_value="Variation Implementation">1447b89d136c1b00cb92b7a66144b071</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-26 20:14:21</sys_created_on>

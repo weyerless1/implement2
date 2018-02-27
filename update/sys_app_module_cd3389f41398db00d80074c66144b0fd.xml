@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Implementation">78111ce713005f00cb92b7a66144b03c</application>
+        <application display_value="Variation Implementation">78111ce713005f00cb92b7a66144b03c</application>
         <assessment/>
         <content_page/>
         <device_type/>
