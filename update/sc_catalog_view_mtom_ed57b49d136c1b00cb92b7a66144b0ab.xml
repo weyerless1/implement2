@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Variance Implementation">1447b89d136c1b00cb92b7a66144b071</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2018-02-26 20:10:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ed57b49d136c1b00cb92b7a66144b0ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Variance Implementation.catalog_variance_implementation</sys_name>
+        <sys_package display_value="Implementation" source="x_ahho_implement">fc115867134c1f00cb92b7a66144b0b5</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_variance_implementation">6157b49d136c1b00cb92b7a66144b0ab</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_ed57b49d136c1b00cb92b7a66144b0ab</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2018-02-26 20:10:34</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

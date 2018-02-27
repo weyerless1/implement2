@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_ahho_implement_request">state=3^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>State closed make resolution mandatory</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>tlweyer</sys_created_by>
+        <sys_created_on>2018-02-27 16:38:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>490055a513ec9b00cb92b7a66144b045</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State closed make resolution mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Implementation" source="x_ahho_implement">fc115867134c1f00cb92b7a66144b0b5</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
+        <sys_update_name>sys_ui_policy_490055a513ec9b00cb92b7a66144b045</sys_update_name>
+        <sys_updated_by>tlweyer</sys_updated_by>
+        <sys_updated_on>2018-02-27 16:38:02</sys_updated_on>
+        <table>x_ahho_implement_request</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

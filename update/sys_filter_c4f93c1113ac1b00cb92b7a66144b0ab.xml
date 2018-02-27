@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_filter">
     <sys_filter action="INSERT_OR_UPDATE">
-        <filter table="sys_user">nameSTARTSWITHanne^nameISNOTEMPTY^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="anne"/>
-            <item endquery="false" field="name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+        <filter table="sp_page">idSTARTSWITHimpm^idISNOTEMPTY^EQ<item endquery="false" field="id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="impm"/>
+            <item endquery="false" field="id" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <group/>
-        <last_used>2018-02-20 16:09:33</last_used>
+        <last_used>2018-02-26 20:21:55</last_used>
         <mobile>true</mobile>
         <roles/>
         <sys_class_name>sys_filter</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
-        <sys_created_on>2018-02-20 16:09:33</sys_created_on>
+        <sys_created_on>2018-02-26 20:21:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_id>e0a6011713dc5b40cb92b7a66144b09f</sys_id>
+        <sys_id>c4f93c1113ac1b00cb92b7a66144b0ab</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
         <sys_package display_value="Implementation" source="x_ahho_implement">fc115867134c1f00cb92b7a66144b0b5</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
-        <sys_update_name>sys_filter_e0a6011713dc5b40cb92b7a66144b09f</sys_update_name>
+        <sys_update_name>sys_filter_c4f93c1113ac1b00cb92b7a66144b0ab</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2018-02-20 16:09:33</sys_updated_on>
-        <table>sys_user</table>
+        <sys_updated_on>2018-02-26 20:21:55</sys_updated_on>
+        <table>sp_page</table>
         <title>mobile</title>
         <user display_value="Thomas Weyer">6d72457ce0a0010078f2c0e8182e120e</user>
     </sys_filter>

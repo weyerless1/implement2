@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-02-27 16:51:18">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2018-02-26 20:10:34</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>6157b49d136c1b00cb92b7a66144b0ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_variance_implementation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Implementation" source="x_ahho_implement">fc115867134c1f00cb92b7a66144b0b5</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
+        <sys_update_name>sys_portal_page_6157b49d136c1b00cb92b7a66144b0ab</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2018-02-26 20:10:34</sys_updated_on>
+        <title>catalog_variance_implementation</title>
+        <user/>
+        <view>catalog_variance_implementation</view>
+    </sys_portal_page>
+</record_update>
