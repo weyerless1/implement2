@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Variation Implementation" max_length="40" name="x_ahho_implement_request" sizeclass="9" type="collection">
+    <element audit="true" extends="task" label="Variation Implementation" max_length="40" name="x_ahho_implement_request" sizeclass="10" type="collection">
         <element default="0" label="Number of affected devices" max_length="16" name="affected_devices" type="integer"/>
         <element label="Ascension affiliate" max_length="40" name="ascension_affiliate" type="boolean"/>
         <element label="Contract termination" max_length="40" name="contract_termination" type="glide_date"/>
@@ -19,7 +19,7 @@
             </choice>
         </element>
         <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference" use_dynamic_default="true"/>
-        <element choice="3" label="Request type" mandatory="true" max_length="40" name="request_type" type="choice">
+        <element choice="3" default="Reverse" label="Request type" mandatory="true" max_length="40" name="request_type" type="choice">
             <choice>
                 <element label="Reverse" sequence="10" value="1"/>
             </choice>
