@@ -19,7 +19,7 @@
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-22 19:52:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1cac480413a89300cb92b7a66144b09d</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Variation Implementation</sys_name>

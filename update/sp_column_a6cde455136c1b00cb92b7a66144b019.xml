@@ -11,7 +11,7 @@
         <sys_class_name>sp_column</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-26 19:28:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a6cde455136c1b00cb92b7a66144b019</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>3</sys_name>

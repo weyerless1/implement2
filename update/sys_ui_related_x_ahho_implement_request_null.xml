@@ -25,7 +25,7 @@
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>tlWeyer</sys_created_by>
             <sys_created_on>2018-02-13 19:58:12</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>39d73dc513981f00d80074c66144b04c</sys_id>
             <sys_mod_count>0</sys_mod_count>

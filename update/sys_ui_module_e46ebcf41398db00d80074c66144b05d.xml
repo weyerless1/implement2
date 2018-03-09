@@ -12,7 +12,7 @@
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-12 21:08:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>e46ebcf41398db00d80074c66144b05d</sys_id>
         <sys_mod_count>1</sys_mod_count>

@@ -14,7 +14,7 @@
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>tlweyer</sys_created_by>
         <sys_created_on>2018-02-27 21:13:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9a3f42e11324db00cb92b7a66144b0f7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Variation Implementation - Container 3</sys_name>

@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tlweyer</sys_created_by>
         <sys_created_on>2018-02-27 14:59:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>177978a1136c9b00cb92b7a66144b057</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>contract_container1</sys_name>

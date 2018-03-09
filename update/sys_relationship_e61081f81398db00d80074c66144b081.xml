@@ -19,7 +19,7 @@
         <sys_class_name>sys_relationship</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-12 21:34:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e61081f81398db00d80074c66144b081</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Implementation tasks</sys_name>

@@ -32,12 +32,12 @@
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-03-01 15:21:19</sys_created_on>
         <sys_id>35e1d30a13245f00cb92b7a66144b0f5</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2018-03-01 15:22:45</sys_updated_on>
+        <sys_updated_on>2018-03-09 19:38:05</sys_updated_on>
         <table>x_ahho_implement_request</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Implementation approval legal">a3547e9d13185f00d80074c66144b089</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
@@ -48,7 +48,7 @@
         <sys_class_name>wf_workflow</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-14 19:01:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>a3547e9d13185f00d80074c66144b089</sys_id>
         <sys_mod_count>1</sys_mod_count>

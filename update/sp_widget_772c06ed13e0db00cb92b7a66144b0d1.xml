@@ -95,7 +95,7 @@
         <sys_class_name>sp_widget</sys_class_name>
         <sys_created_by>tlweyer</sys_created_by>
         <sys_created_on>2018-02-27 20:59:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>772c06ed13e0db00cb92b7a66144b0d1</sys_id>
         <sys_mod_count>7</sys_mod_count>
         <sys_name>Variant Implementation request</sys_name>

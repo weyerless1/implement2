@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_ahho_implement_request" version="2" view="rpt-tempdbbad5f413f05700cb92b7a66144b0b5tlWeyer">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_ahho_implement_request" element="NULL" name="x_ahho_implement_request" parent="NULL" relationship="NULL" sys_domain="global" view="dbbad93813f05700cb92b7a66144b0ab">5fbad93813f05700cb92b7a66144b0ac</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-03-09 19:43:58</sys_created_on>
+            <sys_id>d3bad93813f05700cb92b7a66144b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-03-09 19:43:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_at</element>
+            <list_id display_value="x_ahho_implement_request" element="NULL" name="x_ahho_implement_request" parent="NULL" relationship="NULL" sys_domain="global" view="dbbad93813f05700cb92b7a66144b0ab">5fbad93813f05700cb92b7a66144b0ac</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-03-09 19:43:58</sys_created_on>
+            <sys_id>57bad93813f05700cb92b7a66144b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-03-09 19:43:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_by</element>
+            <list_id display_value="x_ahho_implement_request" element="NULL" name="x_ahho_implement_request" parent="NULL" relationship="NULL" sys_domain="global" view="dbbad93813f05700cb92b7a66144b0ab">5fbad93813f05700cb92b7a66144b0ac</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-03-09 19:43:58</sys_created_on>
+            <sys_id>d7bad93813f05700cb92b7a66144b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-03-09 19:43:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>customer</element>
+            <list_id display_value="x_ahho_implement_request" element="NULL" name="x_ahho_implement_request" parent="NULL" relationship="NULL" sys_domain="global" view="dbbad93813f05700cb92b7a66144b0ab">5fbad93813f05700cb92b7a66144b0ac</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-03-09 19:43:58</sys_created_on>
+            <sys_id>5bbad93813f05700cb92b7a66144b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-03-09 19:43:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_ahho_implement_request" element="NULL" name="x_ahho_implement_request" parent="NULL" relationship="NULL" sys_domain="global" view="dbbad93813f05700cb92b7a66144b0ab">5fbad93813f05700cb92b7a66144b0ac</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-03-09 19:43:58</sys_created_on>
+            <sys_id>dbbad93813f05700cb92b7a66144b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-03-09 19:43:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>affected_devices</element>
+            <list_id display_value="x_ahho_implement_request" element="NULL" name="x_ahho_implement_request" parent="NULL" relationship="NULL" sys_domain="global" view="dbbad93813f05700cb92b7a66144b0ab">5fbad93813f05700cb92b7a66144b0ac</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-03-09 19:43:58</sys_created_on>
+            <sys_id>5fbad93813f05700cb92b7a66144b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-03-09 19:43:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_ahho_implement_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-03-09 19:43:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>5fbad93813f05700cb92b7a66144b0ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-03-09 19:43:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-tempdbbad5f413f05700cb92b7a66144b0b5tlweyer" name="rpt-tempdbbad5f413f05700cb92b7a66144b0b5tlWeyer">dbbad93813f05700cb92b7a66144b0ab</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

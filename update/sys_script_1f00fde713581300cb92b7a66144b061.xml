@@ -44,7 +44,7 @@
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-21 13:50:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>1f00fde713581300cb92b7a66144b061</sys_id>
         <sys_mod_count>1</sys_mod_count>

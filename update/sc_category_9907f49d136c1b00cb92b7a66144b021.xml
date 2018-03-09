@@ -22,7 +22,7 @@
         <sys_class_name>sc_category</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-26 20:11:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9907f49d136c1b00cb92b7a66144b021</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Variation Implementation</sys_name>

@@ -13,7 +13,7 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-12 21:08:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c56ebcf41398db00d80074c66144b08c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_ahho_implement_task</sys_name>

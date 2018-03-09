@@ -52,7 +52,7 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-26 17:00:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>31cbc85513e81b00cb92b7a66144b0dc</sys_id>
         <sys_mod_count>8</sys_mod_count>
         <sys_name>Reverse Implementation</sys_name>

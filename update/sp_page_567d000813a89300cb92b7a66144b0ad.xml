@@ -10,7 +10,7 @@
         <sys_class_name>sp_page</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-22 19:55:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>567d000813a89300cb92b7a66144b0ad</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>implementation_requests</sys_name>

@@ -28,7 +28,7 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-02-08 20:38:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>71119ce713005f00cb92b7a66144b059</sys_id>
         <sys_mod_count>2</sys_mod_count>
