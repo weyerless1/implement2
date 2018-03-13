@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Variation Implementation" max_length="40" name="x_ahho_implement_request" type="collection">
+    <element audit="true" extends="task" label="Variation Implementation" max_length="40" name="x_ahho_implement_request" sizeclass="2" type="collection">
         <element default="0" label="Number of affected devices" max_length="16" name="affected_devices" type="integer"/>
         <element label="Ascension affiliate" max_length="40" name="ascension_affiliate" type="boolean"/>
         <element label="Contract termination" max_length="40" name="contract_termination" type="glide_date"/>

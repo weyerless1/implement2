@@ -33,7 +33,7 @@
         <donut_width_percent>50</donut_width_percent>
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
-        <field_list>number,opened_at,opened_by,customer,short_description,affected_devices</field_list>
+        <field_list>number,opened_at,opened_by,customer,short_description,approval,affected_devices</field_list>
         <filter table="x_ahho_implement_request">active=true^state!=3^approval=not requested^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="3"/>
             <item endquery="false" field="approval" goto="false" newquery="false" operator="=" or="false" value="not requested"/>
@@ -89,17 +89,17 @@
         <sys_created_on>2018-03-09 19:43:58</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>dbbad5f413f05700cb92b7a66144b0b5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Variation implementation approval not requested</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Submitted not yet approved</sys_name>
         <sys_package display_value="Implementation" source="x_ahho_implement">fc115867134c1f00cb92b7a66144b0b5</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
         <sys_update_name>sys_report_dbbad5f413f05700cb92b7a66144b0b5</sys_update_name>
-        <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2018-03-09 19:43:58</sys_updated_on>
+        <sys_updated_by>tlweyer</sys_updated_by>
+        <sys_updated_on>2018-03-12 15:44:22</sys_updated_on>
         <table>x_ahho_implement_request</table>
-        <title>Variation implementation approval not requested</title>
+        <title>Submitted not yet approved</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>

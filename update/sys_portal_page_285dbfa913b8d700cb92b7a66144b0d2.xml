@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-03-13 18:30:19">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_3_across">f6df4af10a0a0b120070a45fa26bf4f3</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>tlweyer</sys_created_by>
+        <sys_created_on>2018-03-12 15:30:19</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>285dbfa913b8d700cb92b7a66144b0d2</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Variation Implementation overview</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Implementation">fc115867134c1f00cb92b7a66144b0b5</sys_scope>
+        <sys_update_name>sys_portal_page_285dbfa913b8d700cb92b7a66144b0d2</sys_update_name>
+        <sys_updated_by>tlweyer</sys_updated_by>
+        <sys_updated_on>2018-03-13 18:26:25</sys_updated_on>
+        <title>Variation Implementation overview</title>
+        <user/>
+        <view>implementation</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="Variation Implementation overview">285dbfa913b8d700cb92b7a66144b0d2</page>
+                <summary/>
+                <sys_created_by>tlweyer</sys_created_by>
+                <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                <sys_id>514380f113f8d700cb92b7a66144b016</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>tlweyer</sys_updated_by>
+                <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">514380f113f8d700cb92b7a66144b016</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>514380f113f8d700cb92b7a66144b017</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">514380f113f8d700cb92b7a66144b016</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>5d4380f113f8d700cb92b7a66144b017</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">514380f113f8d700cb92b7a66144b016</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d14380f113f8d700cb92b7a66144b016</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>d4dc9d3813f05700cb92b7a66144b07e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">514380f113f8d700cb92b7a66144b016</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d14380f113f8d700cb92b7a66144b018</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>Total Devices by Site</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">514380f113f8d700cb92b7a66144b016</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d54380f113f8d700cb92b7a66144b017</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">514380f113f8d700cb92b7a66144b016</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d94380f113f8d700cb92b7a66144b016</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">514380f113f8d700cb92b7a66144b016</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d94380f113f8d700cb92b7a66144b018</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>285dbfa913b8d700cb92b7a66144b0d2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="Variation Implementation overview">285dbfa913b8d700cb92b7a66144b0d2</page>
+                <summary/>
+                <sys_created_by>tlweyer</sys_created_by>
+                <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                <sys_id>554380f113f8d700cb92b7a66144b019</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>tlweyer</sys_updated_by>
+                <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">554380f113f8d700cb92b7a66144b019</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>514380f113f8d700cb92b7a66144b01b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">554380f113f8d700cb92b7a66144b019</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>554380f113f8d700cb92b7a66144b01a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">554380f113f8d700cb92b7a66144b019</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d54380f113f8d700cb92b7a66144b019</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>56f1403113f8d700cb92b7a66144b033</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">554380f113f8d700cb92b7a66144b019</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d54380f113f8d700cb92b7a66144b01b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>Total Devices by Region</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">554380f113f8d700cb92b7a66144b019</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d94380f113f8d700cb92b7a66144b01a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">554380f113f8d700cb92b7a66144b019</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>dd4380f113f8d700cb92b7a66144b019</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">554380f113f8d700cb92b7a66144b019</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>dd4380f113f8d700cb92b7a66144b01b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>285dbfa913b8d700cb92b7a66144b0d2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="Variation Implementation overview">285dbfa913b8d700cb92b7a66144b0d2</page>
+                <summary/>
+                <sys_created_by>tlweyer</sys_created_by>
+                <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                <sys_id>594380f113f8d700cb92b7a66144b01c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>tlweyer</sys_updated_by>
+                <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">594380f113f8d700cb92b7a66144b01c</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>554380f113f8d700cb92b7a66144b01e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">594380f113f8d700cb92b7a66144b01c</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>594380f113f8d700cb92b7a66144b01d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">594380f113f8d700cb92b7a66144b01c</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d14380f113f8d700cb92b7a66144b01d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">594380f113f8d700cb92b7a66144b01c</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d14380f113f8d700cb92b7a66144b01f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>285dbfa913b8d700cb92b7a66144b0d2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">594380f113f8d700cb92b7a66144b01c</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d94380f113f8d700cb92b7a66144b01c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>5ce9d5f413f05700cb92b7a66144b028</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">594380f113f8d700cb92b7a66144b01c</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d94380f113f8d700cb92b7a66144b01e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value># of Requests by Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">594380f113f8d700cb92b7a66144b01c</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>dd4380f113f8d700cb92b7a66144b01d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="Variation Implementation overview">285dbfa913b8d700cb92b7a66144b0d2</page>
+                <summary/>
+                <sys_created_by>tlweyer</sys_created_by>
+                <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                <sys_id>5d4380f113f8d700cb92b7a66144b012</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>tlweyer</sys_updated_by>
+                <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b012</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>594380f113f8d700cb92b7a66144b014</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b012</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>5d4380f113f8d700cb92b7a66144b013</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b012</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d14380f113f8d700cb92b7a66144b014</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b012</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d54380f113f8d700cb92b7a66144b013</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b012</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d54380f113f8d700cb92b7a66144b015</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>285dbfa913b8d700cb92b7a66144b0d2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b012</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>dd4380f113f8d700cb92b7a66144b012</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>dbbad5f413f05700cb92b7a66144b0b5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b012</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>dd4380f113f8d700cb92b7a66144b014</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>Submitted not yet approved</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone3</dropzone>
+                <offset>0</offset>
+                <page display_value="Variation Implementation overview">285dbfa913b8d700cb92b7a66144b0d2</page>
+                <summary/>
+                <sys_created_by>tlweyer</sys_created_by>
+                <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                <sys_id>5d4380f113f8d700cb92b7a66144b01f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>tlweyer</sys_updated_by>
+                <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b01f</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>594380f113f8d700cb92b7a66144b021</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b01f</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>5d4380f113f8d700cb92b7a66144b020</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b01f</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d14380f113f8d700cb92b7a66144b021</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b01f</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d54380f113f8d700cb92b7a66144b020</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b01f</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>d54380f113f8d700cb92b7a66144b022</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>285dbfa913b8d700cb92b7a66144b0d2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b01f</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>dd4380f113f8d700cb92b7a66144b01f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>4d42c83113f8d700cb92b7a66144b093</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-12-2018 11:55:44">5d4380f113f8d700cb92b7a66144b01f</portal_section>
+                        <sys_created_by>tlweyer</sys_created_by>
+                        <sys_created_on>2018-03-12 15:55:44</sys_created_on>
+                        <sys_id>dd4380f113f8d700cb92b7a66144b021</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tlweyer</sys_updated_by>
+                        <sys_updated_on>2018-03-12 15:55:44</sys_updated_on>
+                        <value>Total Devices by implementation Type</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
